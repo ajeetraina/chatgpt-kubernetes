@@ -1,4 +1,4 @@
-# Running ChatGPT locally on Kubernetes Cluster
+# Building ChatGPT locally using Docker and running it as Kubernetes Pod
 
 ## Prereq
 
