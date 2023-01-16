@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chatgpt
-        image: <your-image-name>
+        image: chatgpt-image
         ports:
         - containerPort: 8000
         resources:
